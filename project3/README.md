@@ -1,5 +1,3 @@
----
-
 # 🔐 PyPassword Generator & Strength Detector
 
 A simple yet powerful **Python CLI tool** to help users **generate secure passwords** and **analyze the strength** of existing ones — all while reinforcing good cybersecurity practices.
