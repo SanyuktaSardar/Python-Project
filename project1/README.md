@@ -6,7 +6,7 @@ A simple and interactive **Python GUI application** to convert currency values b
 
 ## 📌 Features
 
-* 🎯 Convert amounts between currencies: USD, INR, EUR, GBP, AUD, CAD, JPY
+* 🎯 Convert amounts between currencies: USD, INR, EUR, GBP, AUD, CAD, JPY ..etc
 * 🧮 Displays converted amount with **rounded result**
 * 📉 GUI interface built using **Tkinter** and **ttk**
 * 🔽 Dropdown menu to select **source** and **target** currency
