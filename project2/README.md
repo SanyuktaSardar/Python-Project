@@ -68,7 +68,7 @@ python project2.py
 ### 📷 Sample Outputs
 
 * **Bar Chart:**
-  ![Bar Chart](https://i.imgur.com/Nl5pVzv.png)
+  ![Bar Chart](https://github.com/SanyuktaSardar/Python-Project/blob/main/project2/screenshoot/Screenshot%202025-06-24%20172124.png)
 
 * **Pie Chart:**
   ![Pie Chart](https://i.imgur.com/VpweIoE.png)
