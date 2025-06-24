@@ -4,7 +4,7 @@
 
 ## 📌 Project Overview
 
-*The **PyPassword Generator** is a **Command-Line Interface (CLI)** tool built in Python that allows users to:
+The PyPassword Generator is a Command-Line Interface (CLI) tool built in Python that allows users to:
 
 #✅ Generate strong, custom passwords with letters, numbers, and symbols.
 # 🔍 Detect password strength based on character types and length.
