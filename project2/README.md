@@ -71,7 +71,7 @@ python project2.py
   ![Bar Chart](https://github.com/SanyuktaSardar/Python-Project/blob/main/project2/screenshoot/Screenshot%202025-06-24%20172124.png)
 
 * **Pie Chart:**
-  ![Pie Chart]([https://i.imgur.com/VpweIoE.png](https://github.com/SanyuktaSardar/Python-Project/blob/main/project2/screenshoot/Screenshot%202025-06-24%20172036.png))
+  ![Pie Chart](https://github.com/SanyuktaSardar/Python-Project/blob/main/project2/screenshoot/Screenshot%202025-06-24%20172036.png)
 
 ---
 
