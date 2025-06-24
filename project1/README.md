@@ -26,6 +26,6 @@ A simple and user-friendly currency converter application built using Python's `
 1. Clone the repository:
 
 bash
-git clone https://github.com/SanyuktaSardar/Python-Project/project1.git
+git clone https://github.com/SanyuktaSardar/Python-Project/blob/main/project1/project1.py
 cd project1
 
