@@ -69,12 +69,24 @@ python password_generator.py
 
 ## 📂 File Structure
 
-```
 project/
 │
-├── password_generator.py     # Main script
-├── Password.txt              # Stores generated or verified passwords
-└── README.md                 # Project documentation
+├── password_generator.py           # 🎯 Main Python script
+├── Password.txt                    # 💾 Stores generated or verified passwords
+├── README.md                       # 📘 Project documentation
+│
+└── screenshots/                    # 📸 Demo screenshots folder
+    ├── Screenshot 2025-06-24 221404.png   # Generator start prompt
+    ├── Screenshot 2025-06-24 221425.png   # User input for password
+    ├── Screenshot 2025-06-24 221446.png   # Generated password output
+    ├── Screenshot 2025-06-24 221523.png   # Strength detection prompt
+    ├── Screenshot 2025-06-24 221615.png   # Medium strength feedback
+    ├── Screenshot 2025-06-24 222012.png   # Strong password detection
+    ├── Screenshot 2025-06-24 222032.png   # User prompt to save password
+    ├── Screenshot 2025-06-24 222145.png   # Weak password warning
+    ├── Screenshot 2025-06-24 222203.png   # Save confirmation / end screen
+    └── desktop.ini                        # (Auto-generated system file, can be ignored)
+
 ```
 
 ---
