@@ -19,7 +19,8 @@ A simple and interactive **Python GUI application** to convert currency values b
 ```
 Currency-Converter-GUI/
 │
-├── currency_converter.py              # 🧠 Main Python script
+├── project1.py              # 🧠 Main Python script
+├── Building a Simple Currency Converter App with Python and Tkinter 💱.mp4
 ├── README.md                          # 📘 Project documentation
 └── screenshoot/                       # 📸 Folder with GUI screenshots
     └── Screenshot 2025-06-24 171034.png
