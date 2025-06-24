@@ -75,7 +75,7 @@ project/
 ├── Password.txt                    # 💾 Stores generated or verified passwords
 ├── README.md                       # 📘 Project documentation
 │
-└── screenshots/                    # 📸 Demo screenshots folder
+└── screenshots/                    #  📸 Demo screenshots folder
     ├── Screenshot 2025-06-24 221404.png   # Generator start prompt
     ├── Screenshot 2025-06-24 221425.png   # User input for password
     ├── Screenshot 2025-06-24 221446.png   # Generated password output
