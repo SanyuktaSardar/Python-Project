@@ -94,31 +94,25 @@ project/
 
 ### 🔧 Generator Prompt
 
-![Generator Prompt](./screenshots/Screenshot%202025-06-24%20221404.png)
+![Generator Prompt](https://github.com/SanyuktaSardar/Python-Project/blob/main/project3/Screenshoots/Screenshot%202025-06-24%20221404.png)
 
 ### 👤 User Inputs
 
-![User Input](./screenshots/Screenshot%202025-06-24%20221425.png)
+![User Input](https://github.com/SanyuktaSardar/Python-Project/blob/main/project3/Screenshoots/Screenshot%202025-06-24%20221523.png)
 
 ### ✅ Password Generated
 
-![Password Output](./screenshots/Screenshot%202025-06-24%20221446.png)
+![Password Output](https://github.com/SanyuktaSardar/Python-Project/blob/main/project3/Screenshoots/Screenshot%202025-06-24%20222203.png)
 
-### 🔍 Strength Detector
-
-![Strength Prompt](./screenshots/Screenshot%202025-06-24%20221523.png)
 
 ### ⚠️ Medium Password Feedback
 
-![Medium Password](./screenshots/Screenshot%202025-06-24%20221615.png)
+![Medium Password](https://github.com/SanyuktaSardar/Python-Project/blob/main/project3/Screenshoots/Screenshot%202025-06-24%20222032.png)
 
 ### 🎉 Strong Password Message
 
-![Strong Password](./screenshots/Screenshot%202025-06-24%20222012.png)
+![Strong Password](https://github.com/SanyuktaSardar/Python-Project/blob/main/project3/Screenshoots/Screenshot%202025-06-24%20222145.png)
 
-### 💾 Save Confirmation
-
-![Save Password](./screenshots/Screenshot%202025-06-24%20222032.png)
 
 ---
 
