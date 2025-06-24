@@ -11,7 +11,27 @@ root.geometry("400x300")
 root.config(bg="#f0f8ff")
 
 # Currency list
-currency_list = {'USD':86.0866, 'INR':1.0,'EUR':99.48, 'GBP':116.963, 'AUD':56.2431, 'CAD':63.7131, 'JPY':0.6316}
+currency_list = {
+    'USD': 86.0866,
+    'INR': 1.0,
+    'EUR': 99.48,
+    'GBP': 116.963,
+    'AUD': 56.2431,
+    'CAD': 63.7131,
+    'JPY': 0.6316,
+    'CNY': 11.85,       # Chinese Yuan
+    'CHF': 101.44,      # Swiss Franc
+    'SGD': 63.72,       # Singapore Dollar
+    'NZD': 52.31,       # New Zealand Dollar
+    'SEK': 8.37,        # Swedish Krona
+    'ZAR': 4.72,        # South African Rand
+    'AED': 23.44,       # UAE Dirham
+    'SAR': 22.96,       # Saudi Riyal
+    'THB': 2.37,        # Thai Baht
+    'MYR': 18.29,       # Malaysian Ringgit
+    'KRW': 0.062,       # South Korean Won
+    'RUB': 0.95         # Russian Ruble
+}
 
 # Label: Enter amount
 Label(root, text="Enter amount:", font=FONT, bg=COLOR).pack(pady=5)
