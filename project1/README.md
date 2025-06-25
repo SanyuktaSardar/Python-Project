@@ -46,7 +46,7 @@ No additional libraries required! This project uses only:
 3. Run the script:
 
 ```bash
-python currency_converter.py
+python project1.py
 ```
 
 4. Enter amount, select currencies, click **"Convert"** — see the result!
